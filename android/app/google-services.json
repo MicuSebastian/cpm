@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141214631750",
+    "project_id": "cpm-database-9e893",
+    "storage_bucket": "cpm-database-9e893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141214631750:android:7e5ddc274968906a958747",
+        "android_client_info": {
+          "package_name": "com.example.cpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141214631750-47935uvi82msd2f774s89292d5ebfqu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cpm",
+            "certificate_hash": "d9479e32601fc930239384a4feb549dce9e00da8"
+          }
+        },
+        {
+          "client_id": "141214631750-38a4vng80g6ko1tukfidnmo902o4gh44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmg88cCLMh89E-gHEbryu_Sm3exltDpmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141214631750-38a4vng80g6ko1tukfidnmo902o4gh44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
